@@ -1,0 +1,16 @@
+.navbar{
+
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: brown;
+    border-radius: 0.3rem;
+}
+
+.navlist{
+    display: flexbox;
+    flex-direction: column;
+}
+
+li{
+    flex-direction: row;
+}
