@@ -1,0 +1,11 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.btn button {
+    margin: 0 1rem;
+    padding : 0.2rem;
+    border-radius: 0.5rem;
+}
